@@ -23,7 +23,7 @@
         <button>Так</button>
         </form>
         <form action="C:\Users\Dima\OneDrive\Рабочий стол\САЙТ\index.html" method="GET">
-                <button>Hі</button>
+                <button>Ні</button>
         </form>
     </body>
 </html>
